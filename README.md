@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @DenmarkLouie
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning PHP with laravel, C# on .NET applications and Java
 - 📫 You can reach me at locknloadeddenmark@gmail.com
 
 <!---
